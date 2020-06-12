@@ -1,0 +1,5 @@
+hello,java
+hello,hadoop
+hello,hdfs
+hello,mapreduce
+hello,bigdata
